@@ -1,0 +1,15 @@
+.footer-text {
+    text-align: center;
+    font-weight: 700;
+    font-family: "Roboto";
+  }
+  
+  .footer-div {
+    background-color: #ffffff;
+    margin-top: solid 0.5px #3a75c4;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100% 
+  }
+  
