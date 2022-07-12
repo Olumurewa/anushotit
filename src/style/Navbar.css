@@ -61,7 +61,7 @@
   
   .nav-links:hover {
     font-weight: bolder !important;
-    border-bottom: solid #eb4641 2px;
+    border-bottom: solid rgb(159, 95, 243) 2px;
     transition: all 0.2s ease-out;
   }
   
